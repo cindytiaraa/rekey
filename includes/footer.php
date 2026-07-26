@@ -51,7 +51,7 @@ $year = date("Y");
     <div class="footer-bottom">
       <span>&copy; <?php echo $year; ?> Kembali Project — Program KIM &amp; PKM-KC. Tahap riset, bukan produk komersial.</span>
       <div class="footer-socials">
-        <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://instagram.com/rekey.project" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
         <a href="#" aria-label="YouTube"><i class="fa-brands fa-youtube"></i></a>
         <a href="<?php echo $base; ?>pages/contact.php" aria-label="Kontak"><i class="fa-solid fa-envelope"></i></a>
       </div>

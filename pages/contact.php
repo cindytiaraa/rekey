@@ -74,20 +74,20 @@ $status = isset($_GET['status']) ? $_GET['status'] : null;
       <div class="lg:col-span-2 flex flex-col gap-5" data-aos="fade-up" data-aos-delay="100">
         <div class="bg-forest-800 text-cream-100 rounded-xl3 p-8">
           <h4 class="font-display text-lg mb-3">Kontak Langsung</h4>
-          <p class="text-sm text-white/70 leading-relaxed mb-5"><em>[Lorem ipsum — info kontak tambahan dari tim bisa diisi di sini.]</em></p>
+          <p class="text-sm text-white/70 leading-relaxed mb-5">Tim ReKey siap berdiskusi seputar proyek, kolaborasi riset, maupun pertanyaan seputar produk. Jangan ragu untuk menghubungi kami.</p>
           <div class="flex items-center gap-3 text-sm mb-3">
             <i class="fa-solid fa-envelope text-clay-500"></i>
-            <span>kembali.project@example.com</span>
+            <span>rekey.project@gmail.com</span>
           </div>
           <div class="flex items-center gap-3 text-sm">
             <i class="fa-solid fa-location-dot text-clay-500"></i>
-            <span>[Nama Universitas — Program KIM &amp; PKM-KC]</span>
+            <span>Universitas Airlangga — Program KIM &amp; PKM-KC</span>
           </div>
         </div>
 
         <div class="bg-cream-200 border border-sand-300 rounded-xl3 p-8">
           <h4 class="font-display text-lg mb-3 text-forest-800">Waktu Respons</h4>
-          <p class="text-sm text-ink-600 leading-relaxed">Tim kami biasanya membalas dalam <em>[lorem ipsum estimasi waktu]</em> pada hari kerja.</p>
+          <p class="text-sm text-ink-600 leading-relaxed">Tim kami biasanya membalas dalam <em>1–2 hari</em> pada hari kerja. Untuk keperluan mendesak, cantumkan subjek yang jelas agar dapat kami prioritaskan.</p>
         </div>
       </div>
     </div>

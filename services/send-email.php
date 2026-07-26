@@ -59,16 +59,16 @@ try {
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     $mail->Port       = 587;
 
-    $mail->setFrom('legendprimeee@gmail.com', 'Sistem Web Ecoloop'); 
+    $mail->setFrom('legendprimeee@gmail.com', 'Sistem Web ReKey'); 
     
-    $mail->addAddress('legendprimeee@gmail.com', 'Tim Riset Kembali'); 
+    $mail->addAddress('legendprimeee@gmail.com', 'Tim Riset ReKey'); 
     
     $mail->addReplyTo($email, $name); 
 
     $mail->isHTML(false); 
     $mail->Subject = "[Pesan Website] " . $subject;
     
-    $emailBody  = "Ada pesan baru dari halaman form kontak website Ecoloop:\n\n";
+    $emailBody  = "Ada pesan baru dari halaman form kontak website ReKey:\n\n";
     $emailBody .= "Nama    : $name\n";
     $emailBody .= "Email   : $email\n";
     $emailBody .= "Subjek  : $subject\n";

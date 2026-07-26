@@ -36,41 +36,23 @@ require_once __DIR__ . '/../includes/navbar.php';
 
       <div class="hero-stats">
         <div class="stat">
-          <b data-count="7">0</b>
-          <span>Jenis Plastik Dipelajari</span>
+          <b data-count="34" data-suffix=" jt">0</b>
+          <span>Timbulan Sampah Nasional 2024</span>
         </div>
         <div class="stat">
-          <b data-count="5">0</b>
-          <span>Tahap Proses Daur Ulang</span>
+          <b data-count="89" data-suffix="%">0</b>
+          <span>Responden Mengaku Lupa Bawa Tas</span>
         </div>
         <div class="stat">
-          <b data-count="1">0</b>
-          <span>Kebiasaan Baru Dibangun</span>
+          <b data-count="94" data-suffix="%">0</b>
+          <span>Responden Tertarik ReKey</span>
         </div>
       </div>
     </div>
 
     <div class="hero-visual" data-aos="zoom-in" data-aos-delay="150">
       <div class="blob"></div>
-      <svg class="keyring-illustration" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="150" cy="120" r="52" stroke="#2C4A3B" stroke-width="10"/>
-        <circle cx="150" cy="120" r="52" stroke="#8A9459" stroke-width="2" stroke-dasharray="4 6" opacity=".5"/>
-        <path d="M188 158 L232 206" stroke="#BE7C4D" stroke-width="8" stroke-linecap="round"/>
-        <rect x="214" y="196" width="26" height="34" rx="8" transform="rotate(8 214 196)" fill="#BE7C4D"/>
-        <rect x="150" y="210" width="150" height="150" rx="28" fill="#2C4A3B"/>
-        <rect x="150" y="210" width="150" height="150" rx="28" fill="url(#heroGrad)" fill-opacity=".35"/>
-        <path d="M195 210 V186a30 30 0 0 1 60 0v24" stroke="#F5F0E4" stroke-width="9" stroke-linecap="round" fill="none"/>
-        <rect x="176" y="252" width="98" height="66" rx="14" fill="#F5F0E4" opacity=".14"/>
-        <path d="M176 285 h98" stroke="#F5F0E4" stroke-width="4" stroke-linecap="round" opacity=".35"/>
-        <path d="M188 305 h74" stroke="#F5F0E4" stroke-width="4" stroke-linecap="round" opacity=".25"/>
-        <path d="M300 300c18-4 30 8 26 26-18 4-30-8-26-26Z" fill="#8A9459"/>
-        <defs>
-          <linearGradient id="heroGrad" x1="150" y1="210" x2="300" y2="360" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#8A9459"/>
-            <stop offset="1" stop-color="#BE7C4D"/>
-          </linearGradient>
-        </defs>
-      </svg>
+      <img class="keyring-illustration" src="assets/img/product/Keychain.png" alt="ReKey — Foldable Totebag Keychain" style="width:100%; max-width:380px;">
       <div class="float-chip chip-1"><i class="fa-solid fa-droplet"></i> Tahan Air</div>
       <div class="float-chip chip-2"><i class="fa-solid fa-key"></i> Selalu Terbawa</div>
     </div>

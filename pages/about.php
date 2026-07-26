@@ -29,13 +29,15 @@ require_once __DIR__ . '/../includes/navbar.php';
       <div>
         <span class="eyebrow" style="margin-bottom:14px;"><i class="fa-solid fa-eye"></i> Visi</span>
         <p style="color:var(--ink-600); line-height:1.8; font-size:15.5px;">
-          <em>[Lorem ipsum — pernyataan visi proyek akan diisi oleh tim di sini.]</em>
+          Menjadi inovasi produk berkelanjutan yang mengubah limbah plastik LDPE menjadi solusi praktis pembawa tas belanja — membangun kebiasaan ramah lingkungan yang melekat pada keseharian masyarakat Indonesia.
         </p>
       </div>
       <div>
         <span class="eyebrow" style="margin-bottom:14px;"><i class="fa-solid fa-bullseye"></i> Misi</span>
         <p style="color:var(--ink-600); line-height:1.8; font-size:15.5px;">
-          <em>[Lorem ipsum — poin-poin misi proyek akan diisi oleh tim di sini.]</em>
+          1. Merancang dan menghasilkan purwarupa <em>foldable keychain bag</em> berbahan daur ulang LDPE yang ergonomis dan praktis.<br><br>
+          2. Mengintegrasikan QR Digital Passport sebagai media edukasi <em>circular economy</em> yang transparan dan interaktif.<br><br>
+          3. Mendorong perubahan perilaku konsumen dari penggunaan kantong plastik sekali pakai menuju kebiasaan membawa tas belanja sendiri secara konsisten.
         </p>
       </div>
     </div>
@@ -47,52 +49,47 @@ require_once __DIR__ . '/../includes/navbar.php';
   <div class="container">
     <div class="team-grid">
       <div class="team-card" data-aos="fade-up" data-aos-delay="0">
-        <div class="team-avatar">A1</div>
-        <h4>[Nama Anggota 1]</h4>
+        <div class="team-avatar">RS</div>
+        <h4>Rizka Fadhilah Septiane</h4>
         <div class="role">Ketua Peneliti</div>
+        <p style="font-size:11px;color:var(--ink-400);margin:4px 0 12px;">Bahasa &amp; Sastra Indonesia</p>
         <div class="socials">
-          <a href="#" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
-          <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
           <a href="#" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         </div>
       </div>
       <div class="team-card" data-aos="fade-up" data-aos-delay="70">
-        <div class="team-avatar">A2</div>
-        <h4>[Nama Anggota 2]</h4>
-        <div class="role">Riset Material</div>
+        <div class="team-avatar">CT</div>
+        <h4>Cindy Tiara Anastasya</h4>
+        <div class="role">UI/UX &amp; Konten Digital</div>
+        <p style="font-size:11px;color:var(--ink-400);margin:4px 0 12px;">Teknik Informatika</p>
         <div class="socials">
-          <a href="#" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
-          <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
           <a href="#" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         </div>
       </div>
       <div class="team-card" data-aos="fade-up" data-aos-delay="140">
-        <div class="team-avatar">A3</div>
-        <h4>[Nama Anggota 3]</h4>
-        <div class="role">Desain Produk</div>
+        <div class="team-avatar">MF</div>
+        <h4>Muhammad Fachriditya</h4>
+        <div class="role">Web Developer</div>
+        <p style="font-size:11px;color:var(--ink-400);margin:4px 0 12px;">Teknik Informatika</p>
         <div class="socials">
-          <a href="#" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
-          <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
           <a href="#" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         </div>
       </div>
       <div class="team-card" data-aos="fade-up" data-aos-delay="210">
-        <div class="team-avatar">A4</div>
-        <h4>[Nama Anggota 4]</h4>
-        <div class="role">Dokumentasi &amp; Media</div>
+        <div class="team-avatar">NF</div>
+        <h4>Nadiah Fahmi Arifanti</h4>
+        <div class="role">Studi Literatur</div>
+        <p style="font-size:11px;color:var(--ink-400);margin:4px 0 12px;">Bahasa &amp; Sastra Indonesia</p>
         <div class="socials">
-          <a href="#" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
-          <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
           <a href="#" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         </div>
       </div>
       <div class="team-card" data-aos="fade-up" data-aos-delay="280">
-        <div class="team-avatar">A5</div>
-        <h4>[Nama Anggota 5]</h4>
-        <div class="role">Dokumentasi &amp; Media</div>
+        <div class="team-avatar">SD</div>
+        <h4>Sukma Dea Andini</h4>
+        <div class="role">Studi Literatur &amp; Operasional</div>
+        <p style="font-size:11px;color:var(--ink-400);margin:4px 0 12px;">Bahasa &amp; Sastra Indonesia</p>
         <div class="socials">
-          <a href="#" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
-          <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
           <a href="#" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         </div>
       </div>

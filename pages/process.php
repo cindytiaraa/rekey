@@ -72,38 +72,38 @@ require_once __DIR__ . '/../includes/navbar.php';
     <div class="section-head center" data-aos="fade-up">
       <span class="eyebrow">Progres Riset</span>
       <h2 class="section-title">Proyek Ini Masih Berjalan — dan Itu Bagian dari Ceritanya</h2>
-      <p class="section-sub"><em>[Lorem ipsum — catatan tambahan progres dari tim riset]</em></p>
+      <p class="section-sub">Berdasarkan proposal PKM-KC, proyek ini dijadwalkan berlangsung selama 4 bulan dan saat ini sedang dalam tahap pengembangan purwarupa awal (<em>proof of concept</em>).</p>
     </div>
 
     <div class="progress-timeline">
       <div class="timeline-item done" data-aos="fade-up" data-aos-delay="0">
         <div class="tl-dot"><i class="fa-solid fa-check"></i></div>
-        <h4>Tinjauan Literatur</h4>
-        <p>Studi mendalam tentang jenis plastik, LDPE, dan riset serupa sebelumnya.</p>
+        <h4>Persiapan &amp; Koordinasi Mitra</h4>
+        <p>Koordinasi dengan bank sampah lokal sebagai penyedia limbah LDPE dan jasa jahit untuk proses penjahitan purwarupa.</p>
         <span class="tl-status">Selesai</span>
       </div>
       <div class="timeline-item done" data-aos="fade-up" data-aos-delay="80">
         <div class="tl-dot"><i class="fa-solid fa-check"></i></div>
-        <h4>Analisis Material</h4>
-        <p>Pengujian sifat LDPE hasil daur ulang: fleksibilitas, ketahanan air, kekuatan sambungan.</p>
+        <h4>Pengumpulan &amp; Pengolahan Limbah LDPE</h4>
+        <p>Pembersihan, pengeringan, dan proses <em>controlled heat pressing</em> untuk menghasilkan lembaran material kanvas LDPE.</p>
         <span class="tl-status">Selesai</span>
       </div>
       <div class="timeline-item active" data-aos="fade-up" data-aos-delay="160">
         <div class="tl-dot"><i class="fa-solid fa-drafting-compass"></i></div>
-        <h4>Prototipe</h4>
-        <p>Pembuatan purwarupa totebag lipat dan mekanisme keychain.</p>
+        <h4>Pembuatan Produk Fisik ReKey</h4>
+        <p>Pemotongan pola, penjahitan, dan perakitan <em>foldable totebag</em> beserta <em>character pouch</em> dan mekanisme keychain.</p>
         <span class="tl-status">Berjalan</span>
       </div>
       <div class="timeline-item todo" data-aos="fade-up" data-aos-delay="240">
         <div class="tl-dot"><i class="fa-solid fa-vial"></i></div>
-        <h4>Pengujian</h4>
-        <p>Uji ketahanan, kapasitas beban, dan kenyamanan penggunaan harian.</p>
+        <h4>Pengembangan QR Digital Passport</h4>
+        <p>Perancangan dan pengembangan landing page edukatif yang terhubung dengan QR Code pada produk.</p>
         <span class="tl-status">Direncanakan</span>
       </div>
       <div class="timeline-item todo" data-aos="fade-up" data-aos-delay="320">
         <div class="tl-dot"><i class="fa-solid fa-clipboard-check"></i></div>
-        <h4>Evaluasi</h4>
-        <p>Evaluasi menyeluruh hasil riset sebagai bahan pengembangan lanjutan.</p>
+        <h4>Pengujian &amp; Evaluasi</h4>
+        <p>Uji fungsionalitas produk (transformasi keychain ↔ totebag), kekuatan jahitan, dan aksesibilitas QR Digital Passport.</p>
         <span class="tl-status">Direncanakan</span>
       </div>
     </div>

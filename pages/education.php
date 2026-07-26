@@ -39,14 +39,10 @@ require_once __DIR__ . '/../includes/navbar.php';
       <div class="about-copy">
         <h3 style="font-family:var(--font-display); font-size:24px; color:var(--forest-800); margin:0 0 16px;">Latar Belakang</h3>
         <p data-aos="fade-up">
-          <em>[Lorem ipsum — deskripsi latar belakang lengkap dari tim akan diisi di sini.]</em>
-          Setiap hari, jutaan kantong plastik LDPE dipakai sekali lalu dibuang. Di sisi lain, banyak
-          orang sebenarnya sudah punya totebag di rumah — hanya saja sering tertinggal saat paling
-          dibutuhkan.
+          Indonesia hingga saat ini masih menghadapi persoalan besar terkait tingginya timbulan sampah plastik, khususnya sampah berbahan <em>Low-Density Polyethylene</em> (LDPE) yang banyak digunakan sebagai kantong belanja sekali pakai. Data menunjukkan bahwa timbulan sampah nasional pada tahun 2024 tercatat sebanyak 34 juta ton, dan plastik tetap menjadi kontributor sampah terbesar dengan porsi 19,48% dari total timbulan.
         </p>
         <p data-aos="fade-up" data-aos-delay="80">
-          Proyek ini bertujuan untuk <em>[lorem ipsum tujuan spesifik proyek]</em> — mengurangi limbah
-          plastik LDPE sekaligus membangun kebiasaan membawa tas belanja sendiri secara lebih konsisten.
+          Persoalan yang muncul bukan terletak pada ketiadaan <em>reusable bag</em>, melainkan pada konsistensi penggunaannya. Hasil survei awal terhadap 35 mahasiswa menunjukkan 80% responden mengaku pernah berbelanja tanpa membawa tas belanja sendiri, dan 89% menyebut <strong>lupa</strong> sebagai alasan utama. Inilah yang menjadi titik awal proyek ReKey: menghadirkan tas belanja yang selalu menempel di kunci, sehingga tidak ada lagi alasan untuk lupa.
         </p>
       </div>
     </div>
@@ -63,23 +59,23 @@ require_once __DIR__ . '/../includes/navbar.php';
     <div class="stats-grid">
       <div class="stat-card" data-aos="fade-up" data-aos-delay="0">
         <div class="stat-icon"><i class="fa-solid fa-bag-shopping"></i></div>
-        <div class="stat-number" data-count="700" data-suffix="M+">0</div>
-        <div class="stat-label">Kantong plastik diperkirakan digunakan setiap tahun <em>[lorem ipsum sumber data]</em></div>
+        <div class="stat-number" data-count="34" data-suffix=" jt ton">0</div>
+        <div class="stat-label">Timbulan sampah nasional Indonesia pada tahun 2024</div>
       </div>
       <div class="stat-card" data-aos="fade-up" data-aos-delay="80">
         <div class="stat-icon"><i class="fa-solid fa-hourglass-half"></i></div>
-        <div class="stat-number" data-count="20" data-suffix="+ th">0</div>
-        <div class="stat-label">Waktu yang dibutuhkan kantong LDPE untuk mulai terurai di lingkungan</div>
+        <div class="stat-number" data-count="19.48" data-suffix="%">0</div>
+        <div class="stat-label">Kontribusi plastik terhadap total timbulan sampah nasional</div>
       </div>
       <div class="stat-card" data-aos="fade-up" data-aos-delay="160">
         <div class="stat-icon"><i class="fa-solid fa-house"></i></div>
-        <div class="stat-number" data-count="60" data-suffix="%">0</div>
-        <div class="stat-label">Rumah tangga yang mengaku memiliki totebag tapi jarang membawanya</div>
+        <div class="stat-number" data-count="89" data-suffix="%">0</div>
+        <div class="stat-label">Responden yang menyebut <strong>lupa</strong> sebagai alasan tidak membawa tas belanja sendiri</div>
       </div>
       <div class="stat-card" data-aos="fade-up" data-aos-delay="240">
         <div class="stat-icon"><i class="fa-solid fa-arrow-rotate-left"></i></div>
-        <div class="stat-number" data-count="1" data-suffix="x">0</div>
-        <div class="stat-label">Rata-rata pemakaian kantong plastik sebelum dibuang</div>
+        <div class="stat-number" data-count="94" data-suffix="%">0</div>
+        <div class="stat-label">Responden mahasiswa yang tertarik dengan konsep <em>foldable keychain bag</em></div>
       </div>
     </div>
   </div>

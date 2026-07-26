@@ -18,15 +18,10 @@ require_once __DIR__ . '/../includes/navbar.php';
   <div class="container">
     <div class="product-grid">
       <div class="product-stage" data-aos="zoom-in">
-        <svg viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <rect x="60" y="70" width="180" height="180" rx="34" fill="#2C4A3B"/>
-          <path d="M105 70V50a45 45 0 0 1 90 0v20" stroke="#F5F0E4" stroke-width="10" fill="none" stroke-linecap="round"/>
-          <rect x="86" y="118" width="128" height="86" rx="16" fill="#F5F0E4" fill-opacity=".14"/>
-          <path d="M86 150h128" stroke="#F5F0E4" stroke-width="4" opacity=".35"/>
-          <path d="M100 178h100" stroke="#F5F0E4" stroke-width="4" opacity=".25"/>
-          <circle cx="150" cy="42" r="12" fill="#BE7C4D"/>
-          <rect x="144" y="52" width="12" height="20" rx="4" fill="#BE7C4D"/>
-        </svg>
+        <div style="display:flex; flex-direction:column; align-items:center; gap:20px; padding:30px;">
+          <img src="../assets/img/product/Keychain.png" alt="ReKey Keychain" style="width:180px; height:auto; filter:drop-shadow(0 20px 40px rgba(31,59,44,.20));">
+          <img src="../assets/img/product/Totebag.png" alt="ReKey Totebag" style="width:220px; height:auto; filter:drop-shadow(0 20px 40px rgba(31,59,44,.20));">
+        </div>
         <div class="feature-tag ft-1"><i class="fa-solid fa-droplet"></i> Waterproof</div>
         <div class="feature-tag ft-2"><i class="fa-solid fa-compress"></i> Foldable</div>
         <div class="feature-tag ft-3"><i class="fa-solid fa-key"></i> Keychain</div>
@@ -36,7 +31,7 @@ require_once __DIR__ . '/../includes/navbar.php';
         <div class="section-head" data-aos="fade-up">
           <span class="eyebrow">Produk</span>
           <h2 class="section-title">Kenalan dengan Foldable Totebag Keychain</h2>
-          <p class="section-sub"><em>[Lorem ipsum — nama produk final &amp; tagline dari tim bisa diisi di sini.]</em> Dirancang untuk selalu ada, tanpa perlu diingat-ingat.</p>
+          <p class="section-sub"><strong>ReKey</strong> — <em>reusable foldable keychain bag</em> berbahan limbah plastik LDPE yang dilengkapi QR Digital Passport. Dirancang untuk selalu ada, tanpa perlu diingat-ingat.</p>
         </div>
 
         <div class="feature-list">
