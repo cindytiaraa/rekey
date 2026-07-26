@@ -52,7 +52,7 @@ require_once __DIR__ . '/../includes/navbar.php';
 
     <div class="hero-visual" data-aos="zoom-in" data-aos-delay="150">
       <div class="blob"></div>
-      <img class="keyring-illustration" src="assets/img/product/Keychain.jpeg" alt="ReKey — Foldable Totebag Keychain" style="width:100%; max-width:380px;">
+      <img class="keyring-illustration" src="assets/img/product/Keychain.png" alt="ReKey — Foldable Totebag Keychain" style="width:100%; max-width:380px;">
       <div class="float-chip chip-1"><i class="fa-solid fa-droplet"></i> Tahan Air</div>
       <div class="float-chip chip-2"><i class="fa-solid fa-key"></i> Selalu Terbawa</div>
     </div>
@@ -69,8 +69,8 @@ require_once __DIR__ . '/../includes/navbar.php';
   <div class="container">
     <div class="section-head center" data-aos="fade-up">
       <span class="eyebrow">Jelajahi</span>
-      <h2 class="section-title">Empat Hal yang Perlu Anda Tahu</h2>
-      <p class="section-sub">Landing page ini terbagi menjadi beberapa halaman singkat — mulai dari mana pun sesuai rasa penasaran Anda.</p>
+      <h2 class="section-title">Tiga Hal yang Perlu Anda Tahu</h2>
+      <p class="section-sub">Mulai dari mana pun sesuai rasa penasaran Anda — setiap halaman saling melengkapi.</p>
     </div>
 
     <div class="tw-explore-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">

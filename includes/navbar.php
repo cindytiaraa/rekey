@@ -16,7 +16,7 @@ $navItems = [
 ?>
 <nav class="kim-nav" id="kimNav">
   <a href="<?php echo $base; ?>index.php" class="brand">
-    <img src="<?php echo $base; ?>assets/img/icons/Icon.jpeg" alt="ReKey" class="ring-mark" style="width:30px; height:30px; flex-shrink:0;">
+    <img src="<?php echo $base; ?>assets/img/icons/Icon.png" alt="ReKey" class="ring-mark" style="width:30px; height:30px; flex-shrink:0;">
     <span>Rekey</span>
   </a>
 

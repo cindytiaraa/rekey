@@ -27,8 +27,8 @@ require_once __DIR__ . '/../includes/navbar.php';
 <section class="section-pad" style="padding-top:40px;">
   <div class="container">
     <div class="about-grid">
-      <div class="about-visual" data-aos="fade-up" style="background:var(--white);">
-        <img src="../assets/img/illustration/sampah.jpeg" alt="Ilustrasi Sampah Plastik" style="width:85%; border-radius:var(--radius-md); object-fit:contain;">
+      <div class="about-visual" data-aos="fade-up" style="outline:4px solid var(--sand-300); outline-offset:12px;">
+        <img src="../assets/img/illustration/sampah.jpeg" alt="Ilustrasi Sampah Plastik" style="width:130%; height:130%; object-fit:cover; position:absolute; top:-15%; left:-15%; max-width:none;">
       </div>
       <div class="about-copy">
         <h3 style="font-family:var(--font-display); font-size:24px; color:var(--forest-800); margin:0 0 16px;">Latar Belakang</h3>

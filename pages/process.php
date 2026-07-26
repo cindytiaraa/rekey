@@ -72,7 +72,7 @@ require_once __DIR__ . '/../includes/navbar.php';
     <div class="section-head center" data-aos="fade-up">
       <span class="eyebrow">Progres Riset</span>
       <h2 class="section-title">Proyek Ini Masih Berjalan — dan Itu Bagian dari Ceritanya</h2>
-      <p class="section-sub">Berdasarkan proposal PKM-KC, proyek ini dijadwalkan berlangsung selama 4 bulan dan saat ini sedang dalam tahap pengembangan purwarupa awal (<em>proof of concept</em>).</p>
+      <p class="section-sub">Berdasarkan proposal PKM-KC, proyek ini dijadwalkan berlangsung selama 4 bulan dan saat ini dalam tahap pengembangan purwarupa awal (<em>proof of concept</em>).</p>
     </div>
 
     <div class="progress-timeline">
@@ -105,6 +105,38 @@ require_once __DIR__ . '/../includes/navbar.php';
         <h4>Pengujian &amp; Evaluasi</h4>
         <p>Uji fungsionalitas produk (transformasi keychain ↔ totebag), kekuatan jahitan, dan aksesibilitas QR Digital Passport.</p>
         <span class="tl-status">Direncanakan</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- DAMPAK LINGKUNGAN -->
+<section class="impact-section section-pad" id="impact">
+  <div class="container">
+    <div class="section-head center" data-aos="fade-up">
+      <span class="eyebrow">Dampak Lingkungan</span>
+      <h2 class="section-title">Perubahan Kecil yang Berdampak Berulang</h2>
+    </div>
+    <div class="impact-grid">
+      <div class="impact-card" data-aos="fade-up" data-aos-delay="0">
+        <div class="impact-icon"><i class="fa-solid fa-leaf"></i></div>
+        <h4>Mengurangi Sampah Plastik</h4>
+        <p>Setiap totebag mengalihkan sejumlah kantong LDPE dari tempat pembuangan akhir.</p>
+      </div>
+      <div class="impact-card" data-aos="fade-up" data-aos-delay="80">
+        <div class="impact-icon"><i class="fa-solid fa-coins"></i></div>
+        <h4>Menaikkan Nilai Produk</h4>
+        <p>Limbah bernilai rendah diubah menjadi produk fungsional bernilai guna tinggi.</p>
+      </div>
+      <div class="impact-card" data-aos="fade-up" data-aos-delay="160">
+        <div class="impact-icon"><i class="fa-solid fa-arrows-spin"></i></div>
+        <h4>Mendorong Ekonomi Sirkular</h4>
+        <p>Material bekas kembali masuk ke siklus pemakaian, bukan berakhir sebagai sampah.</p>
+      </div>
+      <div class="impact-card" data-aos="fade-up" data-aos-delay="240">
+        <div class="impact-icon"><i class="fa-solid fa-seedling"></i></div>
+        <h4>Membangun Kebiasaan Baik</h4>
+        <p>Mendorong kebiasaan membawa tas belanja sendiri secara konsisten dan alami.</p>
       </div>
     </div>
   </div>

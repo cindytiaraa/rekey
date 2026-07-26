@@ -64,7 +64,7 @@
 
   .stats-grid{ grid-template-columns:1fr 1fr; }
   .plastic-grid{ grid-template-columns:repeat(2,1fr); }
-  .plastic-card.highlight{ transform:none; grid-column:span 2; }
+  .plastic-card.highlight{ transform:none; }
 
   .journey-track{ grid-template-columns:repeat(2,1fr); }
 
@@ -97,7 +97,7 @@
 
   .stats-grid{ grid-template-columns:1fr; }
   .plastic-grid{ grid-template-columns:1fr 1fr; }
-  .plastic-card.highlight{ grid-column:auto; }
+  .plastic-card.highlight{ grid-column:auto; transform:none; }
 
   .journey-track{ grid-template-columns:1fr; }
   .journey-node{ flex-direction:row; text-align:left; gap:16px; padding:0; margin-bottom:8px; }

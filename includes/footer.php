@@ -11,7 +11,7 @@ $year = date("Y");
     <div class="footer-grid">
       <div class="footer-about">
         <div class="footer-brand">
-          <img src="<?php echo $base; ?>assets/img/icons/Icon.jpeg" alt="ReKey" width="28" height="28">
+          <img src="<?php echo $base; ?>assets/img/icons/Icon.png" alt="ReKey" width="28" height="28">
           <span>Rekey</span>
         </div>
         <p>Proyek riset mahasiswa yang mengubah limbah kantong plastik LDPE menjadi totebag lipat yang menempel di gantungan kunci — supaya kebiasaan bawa tas belanja sendiri jadi lebih mudah dijalani.</p>

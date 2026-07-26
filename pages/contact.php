@@ -75,13 +75,9 @@ $status = isset($_GET['status']) ? $_GET['status'] : null;
         <div class="bg-forest-800 text-cream-100 rounded-xl3 p-8">
           <h4 class="font-display text-lg mb-3">Kontak Langsung</h4>
           <p class="text-sm text-white/70 leading-relaxed mb-5">Tim ReKey siap berdiskusi seputar proyek, kolaborasi riset, maupun pertanyaan seputar produk. Jangan ragu untuk menghubungi kami.</p>
-          <div class="flex items-center gap-3 text-sm mb-3">
-            <i class="fa-solid fa-envelope text-clay-500"></i>
-            <span>rekey.project@gmail.com</span>
-          </div>
           <div class="flex items-center gap-3 text-sm">
             <i class="fa-solid fa-location-dot text-clay-500"></i>
-            <span>Universitas Airlangga — Program KIM &amp; PKM-KC</span>
+            <span>Universitas Airlangga — Kampus B</span>
           </div>
         </div>
 

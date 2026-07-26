@@ -19,9 +19,9 @@ require_once __DIR__ . '/../includes/navbar.php';
     <div class="product-grid">
       <div class="product-stage" data-aos="zoom-in" style="background:var(--white);">
         <div style="display:flex; flex-direction:column; align-items:center; gap:24px; padding:40px 30px;">
-          <img src="../assets/img/product/Keychain.jpeg" alt="ReKey Keychain" style="width:160px; height:auto;">
+          <img src="../assets/img/product/Keychain.png" alt="ReKey Keychain" style="width:160px; height:auto;">
           <div style="width:60px; height:2px; background:var(--sand-300); border-radius:2px;"></div>
-          <img src="../assets/img/product/Totebag.jpeg" alt="ReKey Totebag" style="width:240px; height:auto;">
+          <img src="../assets/img/product/Totebag.png" alt="ReKey Totebag" style="width:240px; height:auto;">
         </div>
         <div class="feature-tag ft-1"><i class="fa-solid fa-droplet"></i> Waterproof</div>
         <div class="feature-tag ft-2"><i class="fa-solid fa-compress"></i> Foldable</div>
@@ -99,33 +99,33 @@ require_once __DIR__ . '/../includes/navbar.php';
   </div>
 </section>
 
-<!-- ENVIRONMENTAL IMPACT -->
-<section class="impact-section section-pad" id="impact">
+<!-- CARA MELIPAT -->
+<section class="section-pad" id="fold-tutorial">
   <div class="container">
     <div class="section-head center" data-aos="fade-up">
-      <span class="eyebrow">Dampak Lingkungan</span>
-      <h2 class="section-title">Perubahan Kecil yang Berdampak Berulang</h2>
+      <span class="eyebrow">Cara Melipat</span>
+      <h2 class="section-title">Dari Totebag ke Keychain dalam 4 Langkah</h2>
+      <p class="section-sub">Simpel dan cepat — cukup ikuti langkah berikut setiap kali selesai berbelanja.</p>
     </div>
-    <div class="impact-grid">
-      <div class="impact-card" data-aos="fade-up" data-aos-delay="0">
-        <div class="impact-icon"><i class="fa-solid fa-leaf"></i></div>
-        <h4>Mengurangi Sampah Plastik</h4>
-        <p>Setiap totebag mengalihkan sejumlah kantong LDPE dari tempat pembuangan akhir.</p>
-      </div>
-      <div class="impact-card" data-aos="fade-up" data-aos-delay="80">
-        <div class="impact-icon"><i class="fa-solid fa-coins"></i></div>
-        <h4>Menaikkan Nilai Produk</h4>
-        <p>Limbah bernilai rendah diubah menjadi produk fungsional bernilai guna tinggi.</p>
-      </div>
-      <div class="impact-card" data-aos="fade-up" data-aos-delay="160">
-        <div class="impact-icon"><i class="fa-solid fa-arrows-spin"></i></div>
-        <h4>Mendorong Ekonomi Sirkular</h4>
-        <p>Material bekas kembali masuk ke siklus pemakaian, bukan berakhir sebagai sampah.</p>
-      </div>
-      <div class="impact-card" data-aos="fade-up" data-aos-delay="240">
-        <div class="impact-icon"><i class="fa-solid fa-seedling"></i></div>
-        <h4>Membangun Kebiasaan Baik</h4>
-        <p>Mendorong kebiasaan membawa tas belanja sendiri secara konsisten dan alami.</p>
+
+    <div class="product-copy" style="max-width:820px; margin:0 auto;">
+      <div class="feature-list" style="grid-template-columns:repeat(2,1fr);">
+        <div class="feature-item" data-aos="fade-up" data-aos-delay="0">
+          <i class="fa-solid fa-1" style="font-size:16px; font-weight:700;"></i>
+          <div><h5>Bentangkan</h5><p>Buka totebag dan ratakan di permukaan datar, pastikan tidak ada lipatan yang tersisa.</p></div>
+        </div>
+        <div class="feature-item" data-aos="fade-up" data-aos-delay="80">
+          <i class="fa-solid fa-2" style="font-size:16px; font-weight:700;"></i>
+          <div><h5>Lipat Memanjang</h5><p>Lipat sisi kiri dan kanan ke arah tengah secara vertikal hingga membentuk strip.</p></div>
+        </div>
+        <div class="feature-item" data-aos="fade-up" data-aos-delay="160">
+          <i class="fa-solid fa-3" style="font-size:16px; font-weight:700;"></i>
+          <div><h5>Lipat Melintang</h5><p>Lipat dari bawah ke atas secara horizontal menjadi persegi kecil seukuran pouch.</p></div>
+        </div>
+        <div class="feature-item" data-aos="fade-up" data-aos-delay="240">
+          <i class="fa-solid fa-4" style="font-size:16px; font-weight:700;"></i>
+          <div><h5>Masukkan &amp; Kaitkan</h5><p>Masukkan ke dalam character pouch, kancingkan snap button, dan gantung di kunci Anda.</p></div>
+        </div>
       </div>
     </div>
   </div>
