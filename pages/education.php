@@ -27,14 +27,8 @@ require_once __DIR__ . '/../includes/navbar.php';
 <section class="section-pad" style="padding-top:40px;">
   <div class="container">
     <div class="about-grid">
-      <div class="about-visual" data-aos="fade-up">
-        <svg width="260" height="260" viewBox="0 0 260 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="130" cy="130" r="120" stroke="#8A9459" stroke-width="1.5" stroke-dasharray="3 8" opacity=".5"/>
-          <path d="M70 150c0-44 30-80 60-80s60 36 60 80-30 60-60 60-60-16-60-60Z" fill="#F5F0E4" fill-opacity=".08"/>
-          <rect x="88" y="118" width="84" height="78" rx="18" fill="#F5F0E4" fill-opacity=".14"/>
-          <path d="M88 150h84" stroke="#F5F0E4" stroke-width="4" opacity=".4"/>
-          <circle cx="180" cy="90" r="10" fill="#BE7C4D"/>
-        </svg>
+      <div class="about-visual" data-aos="fade-up" style="background:var(--white);">
+        <img src="../assets/img/illustration/sampah.jpeg" alt="Ilustrasi Sampah Plastik" style="width:85%; border-radius:var(--radius-md); object-fit:contain;">
       </div>
       <div class="about-copy">
         <h3 style="font-family:var(--font-display); font-size:24px; color:var(--forest-800); margin:0 0 16px;">Latar Belakang</h3>

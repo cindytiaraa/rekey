@@ -16,11 +16,7 @@ $navItems = [
 ?>
 <nav class="kim-nav" id="kimNav">
   <a href="<?php echo $base; ?>index.php" class="brand">
-    <svg class="ring-mark" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="12" cy="12" r="8.5" stroke="#2C4A3B" stroke-width="2.4"/>
-      <path d="M18.5 17L26 24.5" stroke="#BE7C4D" stroke-width="2.4" stroke-linecap="round"/>
-      <rect x="23" y="22" width="6.5" height="8" rx="2" transform="rotate(8 23 22)" fill="#BE7C4D"/>
-    </svg>
+    <img src="<?php echo $base; ?>assets/img/icons/Icon.jpeg" alt="ReKey" class="ring-mark" style="width:30px; height:30px; flex-shrink:0;">
     <span>Rekey</span>
   </a>
 

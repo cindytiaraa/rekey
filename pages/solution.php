@@ -17,10 +17,11 @@ require_once __DIR__ . '/../includes/navbar.php';
 <section class="product section-pad" id="product" style="padding-top:150px;">
   <div class="container">
     <div class="product-grid">
-      <div class="product-stage" data-aos="zoom-in">
-        <div style="display:flex; flex-direction:column; align-items:center; gap:20px; padding:30px;">
-          <img src="../assets/img/product/Keychain.png" alt="ReKey Keychain" style="width:180px; height:auto; filter:drop-shadow(0 20px 40px rgba(31,59,44,.20));">
-          <img src="../assets/img/product/Totebag.png" alt="ReKey Totebag" style="width:220px; height:auto; filter:drop-shadow(0 20px 40px rgba(31,59,44,.20));">
+      <div class="product-stage" data-aos="zoom-in" style="background:var(--white);">
+        <div style="display:flex; flex-direction:column; align-items:center; gap:24px; padding:40px 30px;">
+          <img src="../assets/img/product/Keychain.jpeg" alt="ReKey Keychain" style="width:160px; height:auto;">
+          <div style="width:60px; height:2px; background:var(--sand-300); border-radius:2px;"></div>
+          <img src="../assets/img/product/Totebag.jpeg" alt="ReKey Totebag" style="width:240px; height:auto;">
         </div>
         <div class="feature-tag ft-1"><i class="fa-solid fa-droplet"></i> Waterproof</div>
         <div class="feature-tag ft-2"><i class="fa-solid fa-compress"></i> Foldable</div>

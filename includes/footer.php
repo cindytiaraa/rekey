@@ -11,11 +11,7 @@ $year = date("Y");
     <div class="footer-grid">
       <div class="footer-about">
         <div class="footer-brand">
-          <svg width="28" height="28" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="12" cy="12" r="8.5" stroke="#F5F0E4" stroke-width="2.4"/>
-            <path d="M18.5 17L26 24.5" stroke="#BE7C4D" stroke-width="2.4" stroke-linecap="round"/>
-            <rect x="23" y="22" width="6.5" height="8" rx="2" transform="rotate(8 23 22)" fill="#BE7C4D"/>
-          </svg>
+          <img src="<?php echo $base; ?>assets/img/icons/Icon.jpeg" alt="ReKey" width="28" height="28">
           <span>Rekey</span>
         </div>
         <p>Proyek riset mahasiswa yang mengubah limbah kantong plastik LDPE menjadi totebag lipat yang menempel di gantungan kunci — supaya kebiasaan bawa tas belanja sendiri jadi lebih mudah dijalani.</p>

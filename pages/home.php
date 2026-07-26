@@ -52,7 +52,7 @@ require_once __DIR__ . '/../includes/navbar.php';
 
     <div class="hero-visual" data-aos="zoom-in" data-aos-delay="150">
       <div class="blob"></div>
-      <img class="keyring-illustration" src="assets/img/product/Keychain.png" alt="ReKey — Foldable Totebag Keychain" style="width:100%; max-width:380px;">
+      <img class="keyring-illustration" src="assets/img/product/Keychain.jpeg" alt="ReKey — Foldable Totebag Keychain" style="width:100%; max-width:380px;">
       <div class="float-chip chip-1"><i class="fa-solid fa-droplet"></i> Tahan Air</div>
       <div class="float-chip chip-2"><i class="fa-solid fa-key"></i> Selalu Terbawa</div>
     </div>

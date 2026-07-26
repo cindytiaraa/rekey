@@ -22,7 +22,7 @@ $desc     = isset($pageDesc) ? $pageDesc : "Inovasi mengubah limbah plastik LDPE
 <meta property="og:description" content="<?php echo $desc; ?>">
 <meta property="og:type" content="website">
 
-<link rel="icon" type="image/png" href="<?php echo $base; ?>assets/img/logo/Logo.png">
+<link rel="icon" type="image/jpeg" href="<?php echo $base; ?>assets/img/icons/Icon.jpeg">
 
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
